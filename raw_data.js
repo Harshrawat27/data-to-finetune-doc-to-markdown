@@ -10,6 +10,10 @@ const entries = [
 
     Zachary J. Baum,* Xiang Yu, Philippe Y. Ayala, Yanan Zhao, Steven P. Watkins, and Qiongqiong Zhou
     
+    **Cite This:** *J. Chem. Inf. Model.* 2021,## Artificial Intelligence in Chemistry: Current Trends and Future Directions
+
+    Zachary J. Baum,* Xiang Yu, Philippe Y. Ayala, Yanan Zhao, Steven P. Watkins, and Qiongqiong Zhou
+    
     **Cite This:** *J. Chem. Inf. Model.* 2021, 61, 3197–3212
     
     ---
@@ -26,7 +30,7 @@ const entries = [
     
     Artificial intelligence (AI) refers to the ability of machines to act in seemingly intelligent ways, making decisions in response to new inputs without being explicitly programmed to do so. Whereas typical computer programs generate outputs according to explicit sets of instructions, AI systems are designed to use data-driven models to make predictions. These AI models are generally first trained on representative data sets with known output values, thereby “learning” input–output relationships. The resulting trained models can then be used to predict output values of data similar to the training set or to generate new data. Many problems involving data with complex input–output relationships are difficult or impractical to model procedurally, thus creating an opportunity for AI.
     
-    AI can feasibly be applied to various tasks in the field of chemistry, where complex relationships are often present in data sets. For example, the solubility of a new compound may be predicted either through equations based on empirical data or by using theoretical calculations. Alternatively, prediction of solubility may also be accomplished by an AI program that has developed structure–solubility relationships after being trained on numerous compounds with known solubilities. The use of AI for tasks, such as property prediction have proliferated in recent years due to explosive growth in computing power, open-source machine-learning frameworks, and increasing data literacy among chemists.^[1-9] AI implementations have proven to dramatically reduce design and experimental effort by enabling laboratory automation,^10 predicting bioactivities of new drugs,^11-13 optimizing reaction conditions,^14 and suggesting synthetic routes to complex target molecules.^15
+    AI can feasibly be applied to various tasks in the field of chemistry, where complex relationships are often present in data sets. For example, the solubility of a new compound may be predicted either through equations based on empirical data or by using theoretical calculations. Alternatively, prediction of solubility may also be accomplished by an AI program that has developed structure–solubility relationships after being trained on numerous compounds with known solubilities. The use of AI for tasks, such as property prediction have proliferated in recent years due to explosive growth in computing power, open-source machine-learning frameworks, and increasing data literacy among $ chemists.^{1-9}$ AI implementations have proven to dramatically reduce design and experimental effort by enabling laboratory $automation,^10$ predicting bioactivities of new $drugs,^{11-13}$ optimizing reaction $conditions,^{14}$ and suggesting synthetic routes to complex target $molecules.^{15}$
     
     Although significant publicity has been given to AI and its application in chemistry, perspective on its use and development in chemistry is not obvious from the massive volume of available information. This Review uses the CAS Content Collection to contextualize the current AI landscape, classifying and quantifying chemistry publications related to AI from the years 2000–2020. The CAS Content Collection covers publications in 50 000 scientific journals from around the world in a wide range of disciplines, 62 patent authorities.
     
@@ -35,9 +39,6 @@ const entries = [
     
     ---
     
-    **Figure:** Analytical Chemistry vs Biochemistry publication trends from 2005-2020.
-    
-    **Figure:** Inorganic Chemistry vs Organic Chemistry publication trends from 2005-2020.
     
     © 2021 The Authors. Published by American Chemical Society`,
   },
